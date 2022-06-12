@@ -1,0 +1,28 @@
+[
+  {
+    "account" : "FACEBOOK",
+    "username" : "ashishkjain7670",
+    "icon" : "icon_and_images/facebook.png",
+    "link": "https://www.facebook.com/ashishkjain7670",
+    "description" : "This is a direct link to my Facebook Profile Page."
+  },
+  {
+    "account" : "INSTAGRAM",
+    "username" : "ashishkjain_",
+    "icon" : "icon_and_images/instagram.png",
+    "link": "https://www.instagram.com/ashishkjain_",
+    "description" : "This is the link to my Instagram account, this link will lead you to my personal Insta account."
+  },
+  {"account" : "PROTONMAIL",
+  "username" : "ashishkjain",
+  "icon" : "icon_and_images/protonmail.png",
+  "link": "mailto:ashishkjain@protonmail.com",
+  "description" : "This link will re-direct you to your e-mailing service."
+  },
+  {"account" : "WHATSAPP",
+    "username" : "Ashish Jain",
+    "icon" : "icon_and_images/whatsapp.png",
+    "link": "https://wa.me/+918851094356",
+    "description" : "This link will re-direct you to your whatsapp."
+  }
+]
